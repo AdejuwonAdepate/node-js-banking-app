@@ -1,0 +1,11 @@
+{
+  "name": "banking-app",
+  "version": "1.0.0",
+  "description": "this is a portfolio project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adejuwon Adepate",
+  "license": "ISC"
+}
